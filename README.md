@@ -14,7 +14,8 @@ Currently in the **Albany Beck Pioneer Program**, building cloud-native microser
 
 ### 📊 GitHub Stats
 
-<p align="center"><img src="https://github-readme-stats-angrycomiks-projects.vercel.app/api?username=angrycomik&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide=stars,issues&show=prs_merged&rank_icon=github" alt="GitHub Stats" /><img src="https://github-readme-stats-angrycomiks-projects.vercel.app/api/top-langs?username=angrycomik&show_icons=true&locale=en&layout=compact&count_private=true&hide=Jupyter%20Notebook&exclude_repo=wave-interference,FODS-Project-Fashion-MNIST&theme=dark" alt="Top Languages" /></p>
+<p align="center"><img src="https://github-readme-stats-angrycomiks-projects.vercel.app/api?username=angrycomik&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide=stars,issues&show=prs_merged&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-angrycomiks-projects.vercel.app/api/top-langs?username=angrycomik&show_icons=true&locale=en&layout=compact&count_private=true&hide=Jupyter%20Notebook&exclude_repo=wave-interference,FODS-Project-Fashion-MNIST&theme=dark" alt="Top Languages" /></p>
 
 ---
 
