@@ -4,7 +4,7 @@
 
 Recent Applied Computer Science graduate from **AGH University of Science and Technology**.
 
-Currently in the **Albany Beck Pioneer Program**, building cloud-native microservices and event-driven systems. My stack:
+Currently in the **Albany Beck**, deployed at **HSBC**, working as a **Software Engineer**. My stack:
 
 - ⚙️ Backend: **Java, Spring Boot, Apache Kafka, Hibernate, PostgreSQL**
 - ☁️ DevOps: **Kubernetes, Docker, AWS, GCP, Terraform, Ansible, Jenkins**
